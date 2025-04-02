@@ -332,5 +332,6 @@ conversion_done:
 
 ## Practica 5:
 ### Codigo:
-
-## Asccinema:
+```
+```
+## Asciinema:
